@@ -21,3 +21,5 @@
 12. [Сценарии использования](./12%20usage_explanation/001-usage_explanation.md)
 13. [Базовая архитектура](./13%20basic_architecture/001-basic_architecture.md)
 14. [Представления](./14%20views/001-views.md)
+15. [Анализ рисков](./15%20risks_analysis/001-risks_analysis.md)
+16. [Стоимость владения](./16%20costs/001-costs.md)
