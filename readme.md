@@ -23,3 +23,6 @@
 14. [Представления](./14%20views/001-views.md)
 15. [Анализ рисков](./15%20risks_analysis/001-risks_analysis.md)
 16. [Стоимость владения](./16%20costs/001-costs.md)
+
+## Презентация
+[Перейти](https://docs.google.com/presentation/d/1i3juZEE7ZWd7-Z0_lsG3gy7_o7lzbCNqUnZfoT3EGXQ/edit?usp=sharing)
